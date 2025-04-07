@@ -1,0 +1,3 @@
+==== TANPA Outlier + MinMaxScaler ====
+MSE      : 219899659.15
+R² Score : 0.7261

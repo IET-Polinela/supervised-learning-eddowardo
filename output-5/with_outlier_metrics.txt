@@ -1,0 +1,3 @@
+==== DENGAN Outlier ====
+MSE      : 1591724600.58
+R² Score : 0.7982
