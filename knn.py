@@ -13,7 +13,7 @@ from sklearn.impute import SimpleImputer
 # ----------------------------
 # 0. Setup folder output
 # ----------------------------
-output_dir = "output_plots"
+output_dir = "output_plots"##
 os.makedirs(output_dir, exist_ok=True)
 
 # ----------------------------
